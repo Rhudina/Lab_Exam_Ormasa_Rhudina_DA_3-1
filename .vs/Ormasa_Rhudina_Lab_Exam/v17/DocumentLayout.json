@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\My PC\\source\\repos\\Ormasa_Rhudina_Lab_Exam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9F74C1-F339-405A-B14E-D8F9366092C7}|Ormasa_Rhudina_Lab_Exam\\Ormasa_Rhudina_Lab_Exam.csproj|c:\\users\\my pc\\source\\repos\\ormasa_rhudina_lab_exam\\ormasa_rhudina_lab_exam\\student_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A9F74C1-F339-405A-B14E-D8F9366092C7}|Ormasa_Rhudina_Lab_Exam\\Ormasa_Rhudina_Lab_Exam.csproj|solutionrelative:ormasa_rhudina_lab_exam\\student_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9F74C1-F339-405A-B14E-D8F9366092C7}|Ormasa_Rhudina_Lab_Exam\\Ormasa_Rhudina_Lab_Exam.csproj|C:\\Users\\My PC\\source\\repos\\Ormasa_Rhudina_Lab_Exam\\ormasa_rhudina_lab_exam\\student_page.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A9F74C1-F339-405A-B14E-D8F9366092C7}|Ormasa_Rhudina_Lab_Exam\\Ormasa_Rhudina_Lab_Exam.csproj|solutionrelative:ormasa_rhudina_lab_exam\\student_page.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9F74C1-F339-405A-B14E-D8F9366092C7}|Ormasa_Rhudina_Lab_Exam\\Ormasa_Rhudina_Lab_Exam.csproj|C:\\Users\\My PC\\source\\repos\\Ormasa_Rhudina_Lab_Exam\\ormasa_rhudina_lab_exam\\studentpage_individual.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A9F74C1-F339-405A-B14E-D8F9366092C7}|Ormasa_Rhudina_Lab_Exam\\Ormasa_Rhudina_Lab_Exam.csproj|solutionrelative:ormasa_rhudina_lab_exam\\studentpage_individual.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9F74C1-F339-405A-B14E-D8F9366092C7}|Ormasa_Rhudina_Lab_Exam\\Ormasa_Rhudina_Lab_Exam.csproj|C:\\Users\\My PC\\source\\repos\\Ormasa_Rhudina_Lab_Exam\\ormasa_rhudina_lab_exam\\studentpage_individual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A9F74C1-F339-405A-B14E-D8F9366092C7}|Ormasa_Rhudina_Lab_Exam\\Ormasa_Rhudina_Lab_Exam.csproj|solutionrelative:ormasa_rhudina_lab_exam\\studentpage_individual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9F74C1-F339-405A-B14E-D8F9366092C7}|Ormasa_Rhudina_Lab_Exam\\Ormasa_Rhudina_Lab_Exam.csproj|C:\\Users\\My PC\\source\\repos\\Ormasa_Rhudina_Lab_Exam\\ormasa_rhudina_lab_exam\\ormasa_rhudina_lab_exam.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7A9F74C1-F339-405A-B14E-D8F9366092C7}|Ormasa_Rhudina_Lab_Exam\\Ormasa_Rhudina_Lab_Exam.csproj|solutionrelative:ormasa_rhudina_lab_exam\\ormasa_rhudina_lab_exam.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9F74C1-F339-405A-B14E-D8F9366092C7}|Ormasa_Rhudina_Lab_Exam\\Ormasa_Rhudina_Lab_Exam.csproj|C:\\Users\\My PC\\source\\repos\\Ormasa_Rhudina_Lab_Exam\\ormasa_rhudina_lab_exam\\studentpage_individual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A9F74C1-F339-405A-B14E-D8F9366092C7}|Ormasa_Rhudina_Lab_Exam\\Ormasa_Rhudina_Lab_Exam.csproj|solutionrelative:ormasa_rhudina_lab_exam\\studentpage_individual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student_Page.cs",
+              "DocumentMoniker": "C:\\Users\\My PC\\source\\repos\\Ormasa_Rhudina_Lab_Exam\\Ormasa_Rhudina_Lab_Exam\\Student_Page.cs",
+              "RelativeDocumentMoniker": "Ormasa_Rhudina_Lab_Exam\\Student_Page.cs",
+              "ToolTip": "C:\\Users\\My PC\\source\\repos\\Ormasa_Rhudina_Lab_Exam\\Ormasa_Rhudina_Lab_Exam\\Student_Page.cs",
+              "RelativeToolTip": "Ormasa_Rhudina_Lab_Exam\\Student_Page.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAAAFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T05:32:40.624Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student_Page.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\My PC\\source\\repos\\Ormasa_Rhudina_Lab_Exam\\Ormasa_Rhudina_Lab_Exam\\Student_Page.Designer.cs",
+              "RelativeDocumentMoniker": "Ormasa_Rhudina_Lab_Exam\\Student_Page.Designer.cs",
+              "ToolTip": "C:\\Users\\My PC\\source\\repos\\Ormasa_Rhudina_Lab_Exam\\Ormasa_Rhudina_Lab_Exam\\Student_Page.Designer.cs",
+              "RelativeToolTip": "Ormasa_Rhudina_Lab_Exam\\Student_Page.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T06:20:28.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentPage_Individual.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\My PC\\source\\repos\\Ormasa_Rhudina_Lab_Exam\\Ormasa_Rhudina_Lab_Exam\\StudentPage_Individual.cs",
+              "RelativeDocumentMoniker": "Ormasa_Rhudina_Lab_Exam\\StudentPage_Individual.cs",
+              "ToolTip": "C:\\Users\\My PC\\source\\repos\\Ormasa_Rhudina_Lab_Exam\\Ormasa_Rhudina_Lab_Exam\\StudentPage_Individual.cs [Design]",
+              "RelativeToolTip": "Ormasa_Rhudina_Lab_Exam\\StudentPage_Individual.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T06:42:57.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentPage_Individual.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\My PC\\source\\repos\\Ormasa_Rhudina_Lab_Exam\\Ormasa_Rhudina_Lab_Exam\\StudentPage_Individual.Designer.cs",
+              "RelativeDocumentMoniker": "Ormasa_Rhudina_Lab_Exam\\StudentPage_Individual.Designer.cs",
+              "ToolTip": "C:\\Users\\My PC\\source\\repos\\Ormasa_Rhudina_Lab_Exam\\Ormasa_Rhudina_Lab_Exam\\StudentPage_Individual.Designer.cs",
+              "RelativeToolTip": "Ormasa_Rhudina_Lab_Exam\\StudentPage_Individual.Designer.cs",
+              "ViewState": "AQIAALUAAAAAAAAAAAAgwEgBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T06:29:56.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentPage_Individual.cs",
+              "DocumentMoniker": "C:\\Users\\My PC\\source\\repos\\Ormasa_Rhudina_Lab_Exam\\Ormasa_Rhudina_Lab_Exam\\StudentPage_Individual.cs",
+              "RelativeDocumentMoniker": "Ormasa_Rhudina_Lab_Exam\\StudentPage_Individual.cs",
+              "ToolTip": "C:\\Users\\My PC\\source\\repos\\Ormasa_Rhudina_Lab_Exam\\Ormasa_Rhudina_Lab_Exam\\StudentPage_Individual.cs",
+              "RelativeToolTip": "Ormasa_Rhudina_Lab_Exam\\StudentPage_Individual.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGEAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T06:01:52.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ormasa_Rhudina_Lab_Exam",
+              "DocumentMoniker": "C:\\Users\\My PC\\source\\repos\\Ormasa_Rhudina_Lab_Exam\\Ormasa_Rhudina_Lab_Exam\\Ormasa_Rhudina_Lab_Exam.csproj",
+              "RelativeDocumentMoniker": "Ormasa_Rhudina_Lab_Exam\\Ormasa_Rhudina_Lab_Exam.csproj",
+              "ToolTip": "C:\\Users\\My PC\\source\\repos\\Ormasa_Rhudina_Lab_Exam\\Ormasa_Rhudina_Lab_Exam\\Ormasa_Rhudina_Lab_Exam.csproj",
+              "RelativeToolTip": "Ormasa_Rhudina_Lab_Exam\\Ormasa_Rhudina_Lab_Exam.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-03T06:32:57.566Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
